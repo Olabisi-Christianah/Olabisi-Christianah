@@ -30,7 +30,7 @@ I recently completed my training in data analysis with Microsoft Excel, where I 
 - Strengthening data storytelling ability  
 ## 📫 Contact Me
 - Email: ojewoleolabisi1204@gmail.com 
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/olabisi-ojewole
 ##  Career Objective
 I am seeking an entry-level data analyst role where I can apply my skills in Excel and Power BI to analyze data, solve problems, and support business decisions.
 ⭐ Open to data analyst opportunities, internships, and collaborations.
